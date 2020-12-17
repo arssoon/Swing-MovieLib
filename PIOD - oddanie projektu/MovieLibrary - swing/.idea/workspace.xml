@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10ec4548-de63-4782-8ae3-e65ebec11413" name="Default Changelist" comment="Swing-finished" />
+    <list id="b6ca0356-7346-4c66-a404-4d6c6d8b6db5" name="Revert &quot;Swing - finished&quot;" comment="Revert &quot;Swing - finished&quot;&#10;&#10;This reverts commit ade4ff62">
+      <change beforePath="$PROJECT_DIR$/../../Cmentarz/Zdjecia MENU/Studia II Stopnia/Semestr I/PSR/Labo/Labo 3 - Bedla/.idea/Labo 3 - Bedla.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cmentarz/Zdjecia MENU/Studia II Stopnia/Semestr I/PSR/Labo/Labo 4 - bedla/TestFaunaDB/TestFaunaDB.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataAnalizing/src/resources/analize/MeasureWindow.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/MovieLibrary.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/jfreechart_1_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1lmKvn8xqFgR6IKBaYYnUgYUqEb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10ec4548-de63-4782-8ae3-e65ebec11413" name="Default Changelist" comment="" />
+      <created>1608197059654</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608197059654</updated>
+      <workItem from="1608197060847" duration="462000" />
+      <workItem from="1608197538664" duration="177000" />
+    </task>
+    <task id="LOCAL-00001" summary="Swing - finished">
+      <created>1608197192681</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608197192681</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Swing - finished">
+      <created>1608197567394</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608197567394</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Swing-finished">
+      <created>1608197596754</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608197596754</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Swing - finished" />
+    <MESSAGE value="Swing-finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Swing-finished" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1226" y="54" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608197127464">
+      <screen x="-1360" y="30" width="1360" height="738" />
+    </state>
+    <state x="-1226" y="54" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1360.738/-1360.30.1360.738@-1360.30.1360.738" timestamp="1608197127464" />
+    <state x="-951" y="201" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1608197123264">
+      <screen x="-1360" y="30" width="1360" height="738" />
+    </state>
+    <state x="-951" y="201" key="#com.intellij.ide.util.TreeClassChooserDialog/0.30.1360.738/-1360.30.1360.738@-1360.30.1360.738" timestamp="1608197123264" />
+    <state x="-1078" y="30" key="CommitChangelistDialog2" timestamp="1608197399664">
+      <screen x="-1360" y="30" width="1360" height="738" />
+    </state>
+    <state x="-1078" y="30" key="CommitChangelistDialog2/0.30.1360.738/-1360.30.1360.738@-1360.30.1360.738" timestamp="1608197399664" />
+    <state x="-1232" y="86" key="DiffContextDialog" timestamp="1608197671954">
+      <screen x="-1360" y="30" width="1360" height="738" />
+    </state>
+    <state x="-1232" y="86" key="DiffContextDialog/0.30.1360.738/-1360.30.1360.738@-1360.30.1360.738" timestamp="1608197671954" />
+    <state x="-900" y="154" key="FileChooserDialogImpl" timestamp="1608197522184">
+      <screen x="-1360" y="30" width="1360" height="738" />
+    </state>
+    <state x="-900" y="154" key="FileChooserDialogImpl/0.30.1360.738/-1360.30.1360.738@-1360.30.1360.738" timestamp="1608197522184" />
+    <state x="-1088" y="132" key="Vcs.Push.Dialog.v2" timestamp="1608197673155">
+      <screen x="-1360" y="30" width="1360" height="738" />
+    </state>
+    <state x="-1088" y="132" key="Vcs.Push.Dialog.v2/0.30.1360.738/-1360.30.1360.738@-1360.30.1360.738" timestamp="1608197673155" />
+    <state x="-879" y="305" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1608197621491">
+      <screen x="-1360" y="30" width="1360" height="738" />
+    </state>
+    <state x="-879" y="305" key="git4idea.remote.GitConfigureRemotesDialog/0.30.1360.738/-1360.30.1360.738@-1360.30.1360.738" timestamp="1608197621491" />
+  </component>
+</project>
